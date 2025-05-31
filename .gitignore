@@ -1,0 +1,7 @@
+.env
+__pycache__/
+venv/
+*.pyc
+.streamlit/
+requests.txt # 새로 추가: requests.txt도 무시하도록
+naversearch_old*.py # 새로 추가: old 백업 파일들도 무시하도록
